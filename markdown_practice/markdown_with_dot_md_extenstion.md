@@ -34,43 +34,72 @@ various colors `Red rgb(255,0,0)` `Green rgb(0,255,0)` `Blue rgb(0,0,255)`
 
 [Links](https://hribhav.com)
 
+
+
 ![Image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+# Other stuff now
+
 
 * A list 
 + using various
 - character
 
+
+
 1. A numbeed
 2. list with
 3. Some numbers
+
+
+
 
 1. And now
   - A nested list
     + with many levels
 
 
+
+
+
 - [] A task list
 - [x] This item is completed
 
+
+
 :+1:
+
+
 
 Referring to foot note one[^1]
 and refer to foot note two[^2]
 
+
+
 [!NOTE]
 > Note 
+
 
 [!TIP]
 > An advice
 
+
 [!IMPORTANT]
 > Important
+
 
 [!WARning]
 > Orange
 
+
 [!CAUTION]
 > Caution
+
+
+
+
+# References
 
 [^1] My reference one
 
