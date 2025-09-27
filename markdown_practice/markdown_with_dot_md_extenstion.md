@@ -63,37 +63,37 @@ various colors `Red rgb(255,0,0)` `Green rgb(0,255,0)` `Blue rgb(0,0,255)`
 
 
 
-- [] A task list
+- [ ] A task list
 - [x] This item is completed
 
 
 
-:+1:
+:+1:  
 
 
 
-Referring to foot note one[^1]
-and refer to foot note two[^2]
+Referring to foot note one[^1]  
+and refer to foot note two[^2]  
 
 
 
-[!NOTE]
+> [!NOTE]
 > Note 
 
 
-[!TIP]
+> [!TIP]
 > An advice
 
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > Important
 
 
-[!WARning]
+> [!WARning]
 > Orange
 
 
-[!CAUTION]
+> [!CAUTION]
 > Caution
 
 
@@ -101,9 +101,9 @@ and refer to foot note two[^2]
 
 # References
 
-[^1] My reference one
+[^1]: My reference one
 
-[^2] And my reference two which is very big reference and
+[^2]: And my reference two which is very big reference and
 goes all the way to line two
 
 
